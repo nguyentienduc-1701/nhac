@@ -1,0 +1,5 @@
+@media (min-width:746.25em) and (max-width:163.9375em){
+    .contact-info i[class*="ti-"]{
+        line-height: 2;
+    }
+}
